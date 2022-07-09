@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter} from "react-router-dom";
+import {HashRouter} from "react-router-dom";
 import NavBar from "./Components/Navbar";
 import MainRouter from "./Components/MainRouter";
 import {useContext} from 'react';
@@ -16,10 +16,10 @@ function App() {
     }
 
     return (
-        <BrowserRouter>
+        <HashRouter>
             <NavBar/>
             <MainRouter/>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
