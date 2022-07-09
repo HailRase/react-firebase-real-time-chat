@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-real-time-chat/static/css/main.61e38486.css",
+    "main.js": "/react-firebase-real-time-chat/static/js/main.30f259bf.js",
+    "static/js/787.30532ded.chunk.js": "/react-firebase-real-time-chat/static/js/787.30532ded.chunk.js",
+    "index.html": "/react-firebase-real-time-chat/index.html",
+    "main.61e38486.css.map": "/react-firebase-real-time-chat/static/css/main.61e38486.css.map",
+    "main.30f259bf.js.map": "/react-firebase-real-time-chat/static/js/main.30f259bf.js.map",
+    "787.30532ded.chunk.js.map": "/react-firebase-real-time-chat/static/js/787.30532ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e38486.css",
+    "static/js/main.30f259bf.js"
+  ]
+}
